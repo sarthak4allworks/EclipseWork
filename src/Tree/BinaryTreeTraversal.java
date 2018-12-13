@@ -93,7 +93,7 @@ public class BinaryTreeTraversal {
 		bt.printInOrderTraversal();
 		System.out.println("Level order traversal: ");
 		bt.printLevelOrderTraversal();
-		System.out.println("Level order traversal Two: ");
+		System.out.println("Level order traversal Two with o^n complexity: ");
 		bt.printLevelOrderTraversalTwo();
 	}
 
